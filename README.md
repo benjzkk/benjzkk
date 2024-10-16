@@ -5,8 +5,6 @@
 
 - 🌱 Actualmente estoy aprendiendo `Python`
 
-- 📫 Cómo localizarme avalos.castillo.benjamin@gmail.com
-
 ## Póngase en contacto conmigo por
 
 [![Mis Habilidades](https://skillicons.dev/icons?i=gmail)](avalos.castillo.benjamin@gmail.com)
