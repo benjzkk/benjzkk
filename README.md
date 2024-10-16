@@ -1,7 +1,15 @@
-<h1 align="center">👋</h1>
-<h3 align="center">Benjamín, tengo 19 años y estudio ingeniería informática. Me gusta el fútbol y el ciclismo.</h3>
+<h1 align="center">👋 Hola, soy Benjamín</h1>
+<h3 align="center">Tengo 19 años y estudio ingeniería informática. Me gusta el fútbol y el ciclismo.</h3>
 
 - 👻 Fundador [TeamGhost: Chat & Videojuegos](https://discord.gg/3QtWPTu4f7)
+
+- 🌱 Actualmente estoy aprendiendo `Python`
+
+- 📫 Cómo localizarme avalos.castillo.benjamin@gmail.com
+
+## Póngase en contacto conmigo por
+
+[![Mis Habilidades](https://skillicons.dev/icons?i=gmail)](avalos.castillo.benjamin@gmail.com)
 
 ## Mis Habilidades
 
