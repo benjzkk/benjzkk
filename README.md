@@ -9,7 +9,7 @@
 
 [![Mis Habilidades](https://skillicons.dev/icons?i=js)](#)
 [![Mis Habilidades](https://skillicons.dev/icons?i=py)](#)
-[![Mis Habilidades](https://skillicons.dev/icons?i=C+)](#)
+[![Mis Habilidades](https://skillicons.dev/icons?i=cpp)](#)
 
 ## Póngase en contacto conmigo por
 
