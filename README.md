@@ -3,11 +3,12 @@
 
 - 👻 Fundador [TeamGhost: Chat & Videojuegos](https://discord.gg/3QtWPTu4f7)
 
-- 🌱 Actualmente estoy aprendiendo `Python`
+- 🌱 Actualmente estoy aprendiendo `C++`
 
 ## Mis Habilidades
 
 [![Mis Habilidades](https://skillicons.dev/icons?i=js)](#)
+[![Mis Habilidades](https://skillicons.dev/icons?i=py)](#)
 
 ## Póngase en contacto conmigo por
 
