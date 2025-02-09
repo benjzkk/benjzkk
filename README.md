@@ -5,15 +5,15 @@
 
 - 🌱 Actualmente estoy aprendiendo `C`
 
-## Mis Habilidades
+## Mis habilidades
 
-[![Mis Habilidades](https://skillicons.dev/icons?i=js)](#)
-[![Mis Habilidades](https://skillicons.dev/icons?i=py)](#)
-[![Mis Habilidades](https://skillicons.dev/icons?i=cpp)](#)
+[![Mis habilidades](https://skillicons.dev/icons?i=js)](#)
+[![Mis habilidades](https://skillicons.dev/icons?i=py)](#)
+[![Mis habilidades](https://skillicons.dev/icons?i=cpp)](#)
 
 ## Póngase en contacto conmigo por
 
-[![Mis Habilidades](https://skillicons.dev/icons?i=gmail)](mailto:avalos.castillo.benjamin@gmail.com)
+[![Mis habilidades](https://skillicons.dev/icons?i=gmail)](mailto:avalos.castillo.benjamin@gmail.com)
 <br>
 <br>
 <a href="#">![Estadísticas de Github](https://github-readme-stats.vercel.app/api?username=benjzkk&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
