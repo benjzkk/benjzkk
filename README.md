@@ -23,7 +23,7 @@
 
 ## 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benjzkk&theme=blueberry&count_private=true&hide_border=true&show_icons=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benjzkk&theme=blueberry" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
