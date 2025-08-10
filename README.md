@@ -1,4 +1,5 @@
-<h1 align="center">👋 ¡Hola, soy Benjamín! — 💻 Desarrollador en aprendizaje | ⚽ Fútbol | 🚴 Ciclismo</h1>
+<h1 align="center">👋 ¡Hola, soy Benjamín!</h1>
+<h3 align="center">💻 Desarrollador en aprendizaje | ⚽ Fútbol | 🚴 Ciclismo</h3>
 
 ## 🚀 Sobre mí
 - 👻 Fundador de [**TeamGhost: Chat & Videojuegos**](https://discord.gg/3QtWPTu4f7)  
