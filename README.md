@@ -1,21 +1,42 @@
-<h1 align="center">👋 Hola, soy Benjamín</h1>
-<h3 align="center">Tengo 20 años y me apasionan el fútbol y el ciclismo.</h3>
+<h1 align="center">👋 ¡Hola, soy Benjamín!</h1>
+<h3 align="center">20 años | Apasionado por el fútbol y el ciclismo 🚴⚽</h3>
 
-- 👻 Fundador [TeamGhost: Chat & Videojuegos](https://discord.gg/3QtWPTu4f7)
+---
 
-- 🌱 Actualmente estoy aprendiendo `C`
+## 🚀 Sobre mí
+- 👻 Fundador de [**TeamGhost: Chat & Videojuegos**](https://discord.gg/3QtWPTu4f7)  
+- 🌱 Actualmente aprendiendo **TypeScript**  
+- 🎯 Objetivo: mejorar mis habilidades en desarrollo y colaborar en proyectos
 
-## Mis habilidades
+---
 
-[![Mis habilidades](https://skillicons.dev/icons?i=cpp)](#)
-[![Mis habilidades](https://skillicons.dev/icons?i=py)](#)
-[![Mis habilidades](https://skillicons.dev/icons?i=html)](#)
-[![Mis habilidades](https://skillicons.dev/icons?i=js)](#)
+## 🛠️ Habilidades
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,js,ts" alt="Habilidades" />
+</p>
 
-## Póngase en contacto conmigo por
+---
 
-[![Póngase en contacto conmigo por](https://skillicons.dev/icons?i=gmail)](mailto:avalos.castillo.benjamin@gmail.com)
-<br>
-<br>
-<a href="#">![Estadísticas de github](https://github-readme-stats.vercel.app/api?username=benjzkk&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Idiomas principales](https://github-readme-stats.vercel.app/api/top-langs/?username=benjzkk&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+## 📬 Contacto
+<p align="center">
+  <a href="mailto:avalos.castillo.benjamin@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  <a href="https://discord.gg/3QtWPTu4f7">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=benjzkk&theme=blueberry&count_private=true&hide_border=true&show_icons=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjzkk&layout=compact&theme=blueberry&count_private=true&hide_border=true" height="150" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=benjzkk&theme=discord&no-frame=true&no-bg=true&margin-w=15" />
+</p>
