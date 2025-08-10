@@ -23,15 +23,11 @@
 
 ## 📊 Mis Estadísticas GitHub
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=benjzkk&theme=blueberry&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=benjzkk&theme=blueberry&count_private=true&hide_border=true&show_icons=true&locale=es" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjzkk&layout=compact&theme=blueberry&count_private=true&hide_border=true&locale=es" height="250" />
+  <img src="https://github-profile-trophy.vercel.app/?username=benjzkk&theme=blueberry&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 <p align="center">
