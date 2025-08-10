@@ -3,6 +3,7 @@
 
 ---
 
+
 ## 🚀 Sobre mí
 - 👻 Fundador de [**TeamGhost: Chat & Videojuegos**](https://discord.gg/3QtWPTu4f7)  
 - 🌱 Actualmente aprendiendo **TypeScript**  
