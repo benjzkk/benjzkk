@@ -23,7 +23,7 @@
 
 ## 📊 Mis Estadísticas GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benjzkk&theme=blueberry&count_private=true&hide_border=true&show_icons=true&locale=es&card_width=160" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=benjzkk&theme=blueberry&count_private=true&hide_border=true&show_icons=true&locale=es" height="160" card_width="160" />
 </p>
 
 <p align="center">
