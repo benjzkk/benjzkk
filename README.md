@@ -29,8 +29,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=benjzkk&theme=blueberry&no-frame=true&no-bg=true&margin-w=15" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/benjzkk" alt="Stars" />
-  <img src="https://img.shields.io/github/followers/benjzkk" alt="Followers" />
-</p>
