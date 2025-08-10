@@ -14,7 +14,7 @@
 
 ## Póngase en contacto conmigo por
 
-[![Mis habilidades](https://skillicons.dev/icons?i=gmail)](mailto:avalos.castillo.benjamin@gmail.com)
+[![Póngase en contacto conmigo por](https://skillicons.dev/icons?i=gmail)](mailto:avalos.castillo.benjamin@gmail.com)
 <br>
 <br>
 <a href="#">![Estadísticas de github](https://github-readme-stats.vercel.app/api?username=benjzkk&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
