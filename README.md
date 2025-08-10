@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola, soy Benjamín!</h1>
-<h3 align="center">20 años | ⚽ Fútbol | 🚴 Ciclismo | 💻 Desarrollador en aprendizaje</h3>
+<h3 align="center">20 años | Desarrollador en aprendizaje</h3>
 
 ## 🚀 Sobre mí
 - 👻 Fundador de [**Fantasmeros: Chat & Gaming**](https://discord.gg/3QtWPTu4f7)  
