@@ -23,7 +23,7 @@
 
 ## 📊 Mis Estadísticas GitHub
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=benjzkk&theme=blueberry&no-frame=true&no-bg=true&margin-w=15" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 <p align="center">
