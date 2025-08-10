@@ -2,7 +2,7 @@
 <h3 align="center">20 años | Apasionado por el fútbol y el ciclismo 🚴⚽</h3>
 
 ## 🚀 Sobre mí
-- 👻 Fundador de [**TeamGhost: Chat & Videojuegos**](https://discord.gg/3QtWPTu4f7)  
+- 👻 Fundador de [**Fantasmeros: Chat & Gaming**](https://discord.gg/3QtWPTu4f7)  
 - 🌱 Actualmente aprendiendo **TypeScript**  
 - 🎯 Objetivo: mejorar mis habilidades en desarrollo y colaborar en proyectos
 
