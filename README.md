@@ -39,7 +39,3 @@
   <img src="https://img.shields.io/github/stars/benjzkk" alt="Stars" />
   <img src="https://img.shields.io/github/followers/benjzkk" alt="Followers" />
 </p>
-
-<p align="center">
-  ![GitHub Contributions](https://ghchart.rshah.org/benjzkk)
-</p>
