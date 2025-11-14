@@ -2,13 +2,13 @@
 <h3 align="center">💻 Desarrollador en aprendizaje</h3>
 
 ## 🚀 Sobre mí
-- 👻 Fundador de [**Fantasmeros: Chat & Gaming**](https://discord.gg/3QtWPTu4f7)  
-- 🌱 Actualmente aprendiendo **TypeScript**  
+- 👻 Fundador de [**Fantasmeros**](https://discord.gg/3QtWPTu4f7)  
+- 🌱 Actualmente aprendiendo **Python**  
 - 🎯 Objetivo: mejorar mis habilidades en desarrollo y colaborar en proyectos
 
 ## 🛠️ Habilidades
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,js,ts" alt="Habilidades" />
+  <img src="https://skillicons.dev/icons?i=js" alt="Habilidades" />
 </p>
 
 ## 📬 Contacto
